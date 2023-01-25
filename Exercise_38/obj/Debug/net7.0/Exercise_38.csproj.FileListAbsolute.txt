@@ -1,0 +1,15 @@
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/bin/Debug/net7.0/Exercise_38
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/bin/Debug/net7.0/Exercise_38.deps.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/bin/Debug/net7.0/Exercise_38.runtimeconfig.json
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/bin/Debug/net7.0/Exercise_38.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/bin/Debug/net7.0/Exercise_38.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/Exercise_38.csproj.AssemblyReference.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/Exercise_38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/Exercise_38.AssemblyInfoInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/Exercise_38.AssemblyInfo.cs
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/Exercise_38.csproj.CoreCompileInputs.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/Exercise_38.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/refint/Exercise_38.dll
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/Exercise_38.pdb
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/Exercise_38.genruntimeconfig.cache
+/Users/acfeldman/Documents/GeekB/C# Beginning/Seminar#5/Exercise_38/obj/Debug/net7.0/ref/Exercise_38.dll
