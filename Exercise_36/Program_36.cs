@@ -29,3 +29,5 @@ int ruslt = 0;
     }
 ShowArray(tripleArray);
 Console.WriteLine(ruslt);
+
+// sem

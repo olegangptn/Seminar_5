@@ -59,4 +59,4 @@ Console.WriteLine(max);
 Console.WriteLine(min);
 Console.WriteLine(max-min);
 
-// цум
+// sem

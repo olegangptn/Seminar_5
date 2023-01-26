@@ -30,3 +30,5 @@ int count = 0;
     }
 ShowArray(tripleArray);
 Console.WriteLine(count);
+
+// sem
